@@ -1,0 +1,37 @@
+🚀 Exciting Project Update: Zerodha !
+Hey everyone! I’m thrilled to share that I’ve developed a Zerodha, inspired by Zerodha, a leading discount brokerage firm in India. This project was an incredible journey, and here’s a breakdown of what I built and learned:
+Tech Stack
+Frontend:
+* React
+* HTML
+* CSS
+* Bootstrap
+Backend:
+* JavaScript
+* Node.js
+* Express.js
+Database:
+* MongoDB
+What I Learned
+* UI Design with React: Crafted the user interface to be intuitive and responsive.
+* Data Visualization with Chart.js: Implemented dynamic charts to display data effectively.
+* Unit Testing with Jest: Ensured code reliability and functionality through rigorous testing.
+This project has not only enhanced my skills in web development but also deepened my understanding of building full-stack applications. I’m excited about the potential of this application and look forward to your feedback and suggestions!
+Feel free to check out the code and let me know what you think! 🚀
+
+Feel free to tweak it further to match your style or add any additional details!
+
+
+
+UnitTesting Using JEST
+to test the project 
+we test the frontend module like Hero Module
+>>cd frontend
+frontend>> npm test
+
+
+
+
+
+
+
