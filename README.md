@@ -89,8 +89,6 @@ Feel free to check out the code and let me know what you think! 🚀
 
 
 
-<img width="1440" alt="Screenshot 2024-07-23 at 10 20 12 AM" src="https://github.com/user-attachments/assets/d48d568f-6d89-4457-8b73-d139ff3a6b87">
-
 <img width="1440" alt="Screenshot 2024-07-23 at 10 21 37 AM" src="https://github.com/user-attachments/assets/6bf5d901-915c-4001-9783-ed380372fced">
 
 
