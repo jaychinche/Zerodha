@@ -31,16 +31,7 @@ Feel free to check out the code and let me know what you think! 🚀
 
 #  ScreenShoot of Project
 
-
-<img width="1440" alt="Screenshot 2024-07-23 at 10 22 11 AM" src="https://github.com/user-attachments/assets/aaf68ca0-fb99-4271-98a5-3898e59b1484">
-
-
-
-<img width="1440" alt="Screenshot 2024-07-23 at 10 47 28 AM" src="https://github.com/user-attachments/assets/5a7dddd9-609a-4322-a6f2-9d82ad269ea8">
-
-
-
-<img width="1440" alt="Screenshot 2024-07-23 at 10 20 12 AM" src="https://github.com/user-attachments/assets/d48d568f-6d89-4457-8b73-d139ff3a6b87">
+<img width="1440" alt="Screenshot 2024-07-23 at 10 47 28 AM" src="https://github.com/user-attachments/assets/9f74ba94-f03d-4e33-aede-a14fdc5abf42">
 
 
 
@@ -90,7 +81,15 @@ Feel free to check out the code and let me know what you think! 🚀
 
 <img width="1440" alt="Screenshot 2024-07-23 at 10 22 11 AM" src="https://github.com/user-attachments/assets/f10ade59-0787-4dec-90cd-352fda1ff221">
 
+<img width="1440" alt="Screenshot 2024-07-23 at 10 22 11 AM" src="https://github.com/user-attachments/assets/aaf68ca0-fb99-4271-98a5-3898e59b1484">
 
+
+
+<img width="1440" alt="Screenshot 2024-07-23 at 10 47 28 AM" src="https://github.com/user-attachments/assets/5a7dddd9-609a-4322-a6f2-9d82ad269ea8">
+
+
+
+<img width="1440" alt="Screenshot 2024-07-23 at 10 20 12 AM" src="https://github.com/user-attachments/assets/d48d568f-6d89-4457-8b73-d139ff3a6b87">
 
 <img width="1440" alt="Screenshot 2024-07-23 at 10 21 37 AM" src="https://github.com/user-attachments/assets/6bf5d901-915c-4001-9783-ed380372fced">
 
