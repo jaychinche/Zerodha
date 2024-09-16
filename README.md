@@ -5,7 +5,6 @@ Hey everyone! I’m thrilled to share that I’ve developed a Zerodha, inspired 
 
 #  Tech Stack
 
-
 # Frontend:
 * React
 * HTML
