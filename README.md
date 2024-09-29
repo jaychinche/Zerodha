@@ -20,7 +20,6 @@ Hey everyone! I’m thrilled to share that I’ve developed a Zerodha, inspired 
 #  Database:
 * MongoDB
 
-#  What I Learned
 
 * UI Design with React: Crafted the user interface to be intuitive and responsive.
 * Data Visualization with Chart.js: Implemented dynamic charts to display data effectively.
