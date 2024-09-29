@@ -1,7 +1,6 @@
 # Zerodha
 
-🚀 Exciting Project Update: Zerodha !
-Hey everyone! I’m thrilled to share that I’ve developed a Zerodha, inspired by Zerodha, a leading discount brokerage firm in India. This project was an incredible journey, and here’s a breakdown of what I built and learned:
+Zerodha clone inspired by Zerodha, a leading discount brokerage firm in India. This project was an incredible journey, and here’s a breakdown of what I built and learned:
 
 #  Tech Stack
 
